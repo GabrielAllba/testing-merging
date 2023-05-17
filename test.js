@@ -4,4 +4,6 @@ console.log('Update,,,,,,,,,,,,');
 
 console.log('UPdateee lagiiiii');
 
-console.log('riel update update');
+console.log('update kesekian kalinyaaa');
+
+console.log('update riel kesekian kalingya');
